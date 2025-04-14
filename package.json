@@ -1,0 +1,22 @@
+{
+  "name": "noble-dark",
+  "displayName": "noble-dark",
+  "description": "Brendan's Custom Dark Theme",
+  "version": "0.0.1",
+  "publisher": "brendannoble",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "noble-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noble-dark-color-theme.json"
+      }
+    ]
+  }
+}
