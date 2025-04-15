@@ -1,9 +1,10 @@
 {
   "name": "noble-dark",
-  "displayName": "noble-dark",
+  "displayName": "Noble Dark",
   "description": "Brendan's Custom Dark Theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "brendannoble",
+  "icon": "images/noble-dark-icon.png",
   "engines": {
     "vscode": "^1.96.0"
   },
