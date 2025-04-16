@@ -103,6 +103,7 @@
     "tab.unfocusedActiveBorder": "#0b1015",
     "list.activeSelectionBackground": "#07b0ff40",
     "list.inactiveSelectionBackground": "#07b0ff40",
+    "list.hoverBackground": "#07b0ff25",
     "titleBar.activeBackground": "#05080a",
     "titleBar.inactiveBackground": "#05080a",
     "titleBar.border": "#141d25",
